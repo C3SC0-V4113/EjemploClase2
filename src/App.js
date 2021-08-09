@@ -32,11 +32,11 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Convertidor de unidades</h1>
+      <h1>Conversor de Divisas</h1>
 
-      <p>Unidad: {unidad}</p>
-      <p>Decena: {decena}</p>
-      <p>Centena: {centena}</p>
+      <p>Dolar: {unidad}</p>
+      <p>Euro: {decena}</p>
+      <p>Bitcoin: {centena}</p>
       <p>Unidad Mil: {umil}</p>
       <p>Decena Mil: {dmil}</p>
       <p>Centena Mil: {cmil}</p>
